@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: SHOPPING-CLIENT
+server:
+  port: 8080
+manag
+
+hystrix:
+  dashboard:
+    proxy-stream-allow-list: '*'
+

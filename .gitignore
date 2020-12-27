@@ -1,0 +1,8 @@
+/.idea/
+/src/
+/shopping-client/.mvn/
+/shopping-client/mvnw.cmd
+/shopping-client/mvnw
+/shopping-service/mvnw
+/shopping-service/.mvn/
+/shopping-service/mvnw.cmd
